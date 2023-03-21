@@ -1,3 +1,3 @@
 # SoftwareCode
-snippet 
-snippet2 
+
+just clik on the sloutinon file to run the program. 
