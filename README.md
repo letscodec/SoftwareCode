@@ -13,3 +13,5 @@ You will see the equivalent grade in alphabetic letter.
 Additional Note: 
 
 I did over 15 Test Cases to make sure I test all the expected output
+
+Another option to run this applicaion is to download the zipped file and then unzip it then use Visual Studio 2022 to run it. 
